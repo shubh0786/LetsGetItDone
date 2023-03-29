@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number8", "Number8\Number8.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddorEven", "OddorEven\OddorEven.csproj", "{401BC4F5-0014-4ED7-A40E-47666E860FBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChrOrVowel", "ChrOrVowel\ChrOrVowel.csproj", "{16AFAE73-F388-4B1B-BB22-C08628B452FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{401BC4F5-0014-4ED7-A40E-47666E860FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{401BC4F5-0014-4ED7-A40E-47666E860FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{401BC4F5-0014-4ED7-A40E-47666E860FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AFAE73-F388-4B1B-BB22-C08628B452FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AFAE73-F388-4B1B-BB22-C08628B452FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AFAE73-F388-4B1B-BB22-C08628B452FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AFAE73-F388-4B1B-BB22-C08628B452FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
